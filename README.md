@@ -9,11 +9,17 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 ## 🔧 Technical Skills
 
 **Programming Languages: Python, C/C++, Java, JavaScript
+
 **Databases: MySQL, MongoDB
+
 **Frontend:HTML5, CSS, React.js, Bootstrap
+
 **Backend:Django, Flask, Node.js
+
 **Tools & Platforms:Git, GitHub, Docker, Postman, Figma
+
 **Machine Learning & AI: NumPy, Matplotlib, PyTorch, Gemini AI
+
 **Specialties:RESTful API Design, WebSockets, Object-Oriented Programming
 
 ---
