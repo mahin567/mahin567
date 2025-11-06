@@ -10,7 +10,7 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 
 **Programming Languages: Python, C/C++, Java, JavaScript
 
-**Databases: MySQL, MongoDB
+**Databases: MySQL, PostgreSQL
 
 **Frontend:HTML5, CSS, React.js, Bootstrap
 
