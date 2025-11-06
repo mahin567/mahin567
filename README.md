@@ -22,9 +22,6 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 
 * **Docker & Containerization** – optimizing deployment and scalability
 * **Automation Tools** – workflow automation with n8n and Make.com
-* **Voice AI** – creating AI-powered real-time voice agents using Vapi.ai
-* **LLM Security & Jailbreak Research** – studying vulnerabilities and ethical implications in large language models
-
 ---
 
 ## 🛠️ Featured Projects
@@ -33,15 +30,28 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 
 Developed as a **campus navigation and management platform** for students and faculty.
 
-* Built using **Django** and **React.js** with integrated Google Maps API
-* Features: Location-based navigation, class scheduling, announcements, and faculty-student interaction
+* Built using **Django** and **html && css && javascript ** with integrated Google Maps API
+* Features: Location-based navigation, class scheduling, announcements, and faculty-student interaction, realtime chat(websocket, gemini 1.5 (Nodejs)
 * Designed for accessibility, real-time updates, and modular expansion
 
 ---
 
-### 🧑‍🌾 
+### 🖼️ YOLOv5 – Real-Time Object Detection System
 
+* Developed an AI-based object detection system using YOLOv5 and PyTorch.
+* Detects multiple objects in real-time from video streams or images
+* Trained on a custom dataset for specific use cases (e.g., safety monitoring or surveillance)
+* Integrated Python scripts for data preprocessing, inference, and visualization
+* Optimized for speed and accuracy on moderate hardware
 ---
+### ⚡ Node.js Real-Time Communication System
+* Developed a real-time messaging platform using Node.js and WebSockets.
+* Enables instant communication between multiple clients with low latency
+* Built robust backend with event-driven architecture for handling concurrent connections
+* Features: Group chat, direct messaging, and broadcast notifications
+* Designed for scalability and reliable message delivery in real-time applications
+---
+
 
 ## 🎓 Education
 
