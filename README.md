@@ -27,7 +27,7 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 ## 🌱 Currently Exploring
 
 * **Docker & Containerization** – optimizing deployment and scalability
-* **Automation Tools** – workflow automation with n8n and Make.com
+* **Roboflow- makeing dataset 
 ---
 
 ## 🛠️ Featured Projects
