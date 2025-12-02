@@ -57,7 +57,13 @@ Developed as a **campus navigation and management platform** for students and fa
 * Features: Group chat, direct messaging, and broadcast notifications
 * Designed for scalability and reliable message delivery in real-time applications
 ---
+### 🖼️ YOLOv8 – Real-Time Object Detection System
 
+* Developed an AI-based object detection system using YOLOv5 and PyTorch.
+* Detects multiple objects in real-time from video streams or images
+* Trained on a custom dataset for specific use cases (e.g., safety monitoring or surveillance)
+* Integrated Python scripts for data preprocessing, inference, and visualization
+* Optimized for speed and accuracy on moderate hardware
 
 ## 🎓 Education
 
