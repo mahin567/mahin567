@@ -77,7 +77,7 @@ Developed as a **campus navigation and management platform** for students and fa
 📧 **Email:** [mushhfiqmahin99@gmail.com](mailto:mushhfiqmahin99@gmail.com)
 📞 **Phone:** +880 1763-746793
 🌐 **GitHub:** [github.com/mahin567](https://github.com/mahin567)
-🔗 **LinkedIn:** [Your LinkedIn Profile]
+🔗 **LinkedIn:** [https://www.linkedin.com/in/mushfiq-mahin-a98410398/](https://www.linkedin.com/in/mushfiq-mahin-a98410398/)]
 🧠 **LeetCode:** [Your LeetCode Profile]
 🏆 **Codeforces:** [Your Codeforces Profile]
 
