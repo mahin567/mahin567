@@ -65,6 +65,11 @@ Developed as a **campus navigation and management platform** for students and fa
 * Integrated Python scripts for data preprocessing, inference, and visualization
 * Optimized for speed and accuracy on moderate hardware
 
+### ⚡ERP Management System
+* Built using Django with HTML, CSS & JavaScript for the frontend and postgressql database for backend data management.
+* Features: automated invoice creation, customer due tracking, production entry, raw-material deduction, stock updates, product returns, payment ledger, and detailed reporting (sales, stock, production, customer due). Includes role-based authentication, printable                   receipts, and optional SMS gateway integration for real-time customer notifications.
+* Designed for accuracy, real-time updates, and modular expansion for analytics, dashboard charts, and profit/loss calculation.
+
 ## 🎓 Education
 
 **B.Sc. in Computer Science and Engineering**
