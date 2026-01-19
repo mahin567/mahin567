@@ -27,7 +27,7 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 ## 🌱 Currently Exploring
 
 * **Docker & Containerization** – optimizing deployment and scalability
-* **Roboflow- makeing dataset 
+* **Roboflow- makeing dataset and train dataset using google colab
 ---
 
 ## 🛠️ Featured Projects
