@@ -28,7 +28,7 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at *United In
 
 * **Docker & Containerization** – optimizing deployment and scalability
 * **Roboflow- makeing dataset and train dataset using google colab
-* **kotlinS
+* **kotlin
 ---
 
 ## 🛠️ Featured Projects
